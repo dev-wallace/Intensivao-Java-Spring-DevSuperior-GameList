@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.devwallace.listgames.dto.GameMinDTO;
-import com.devwallace.listgames.entities.Game;
 import com.devwallace.listgames.repositories.GameRepository;
 
 @Service
