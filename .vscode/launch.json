@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ListgamesApplication<listgames>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.devwallace.listgames.ListgamesApplication",
+            "projectName": "listgames",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
